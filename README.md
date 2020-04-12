@@ -1,5 +1,5 @@
-Currency Checker Version 1.0.0
-@author Castro Opiyo
+**Currency Checker Version 1.0.0
+@author Castro Opiyo**
 
 # INSTALLATION
 
